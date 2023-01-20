@@ -13,11 +13,16 @@ npm install
 npm run dev
 ```
 
-## _REPLACE_ Object
-
-// Use this file to write your report.
+## _Car_ Object
 
 This object has the following properties:
+- Brand (String), the manufacturer of the vehicle
+- Colour (String), the colour of the vehicle
+- Number of wheels (Number), number of wheels on the vehicle
+- Speed (Number), the vehicle velocity in kmph
+- On (boolean), is the vechile on or off
+- Gearbox (Array), differnt gears on the vehicle
+- Ignition (Function), the ignition that starts the vehicle
 
 ## Minimum acceptance Criteria
 
